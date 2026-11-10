@@ -160,7 +160,7 @@ class Game(tk.Frame):
         self.running = False
         self.state = "menu"
 
-        # Mengubah tampilan area permainan menjadi lebih modern
+        # mengubah tampilan area permainan menjadi lebih modern
         self.canvas = tk.Canvas(
             self,
             width=self.width,
