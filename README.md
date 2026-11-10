@@ -1,0 +1,5 @@
+![alt text](<Screenshot 2026-11-10 104550.png>)
+![alt text](<Screenshot 2026-11-10 104602.png>)
+![alt text](<Screenshot 2026-11-10 110209.png>)
+
+Modifikasi yang dilakukan pada game Breakout meliputi perubahan tampilan dan penambahan beberapa fitur baru agar permainan menjadi lebih menarik. Tampilan game diubah menggunakan background berwarna gelap dengan desain yang lebih modern, serta warna bola, paddle, dan bata yang lebih bervariasi. Arah awal bola dibuat secara acak dan pantulannya disesuaikan dengan posisi benturan bola terhadap paddle. Selain itu, ditambahkan sistem skor untuk memberikan poin ketika bola mengenai atau menghancurkan bata, sistem nyawa sebanyak tiga kali, serta sistem lima level dengan jumlah dan ketahanan bata yang meningkat pada level tertentu. Kecepatan bola juga dibuat meningkat seiring bertambahnya level. Game ini turut dilengkapi dengan menu utama yang memiliki tombol Start Game, tampilan informasi skor, level, dan nyawa, serta layar Game Over ketika pemain kehabisan nyawa dan layar You Win ketika berhasil menyelesaikan seluruh level. Terakhir, ditambahkan tombol Play Again agar pemain dapat mengulang permainan dari awal. 
