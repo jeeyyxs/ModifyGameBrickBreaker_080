@@ -66,7 +66,7 @@ class Ball(GameObject):
         self.dx = offset * self.speed
         self.dy = -abs(self.dy)
 
-    # Meningkatkan kecepatan bola
+    # meningkatkan kecepatan bola
     def increase_speed(self):
         self.speed += 0.5
 
