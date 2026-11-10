@@ -103,7 +103,7 @@ class Paddle(GameObject):
 
 class Brick(GameObject):
 
-    # Warna bata dibedakan berdasarkan jumlah ketahanannya
+    # warna bata dibedakan berdasarkan jumlah ketahanannya
     COLORS = {
         1: "#00e676",
         2: "#ffca28",
@@ -152,7 +152,7 @@ class Game(tk.Frame):
         self.width = 700
         self.height = 500
 
-        # Menambahkan sistem skor, nyawa, dan level
+        # menambahkan sistem skor, nyawa, dan level
         self.score = 0
         self.lives = 3
         self.level = 1
